@@ -1,0 +1,7 @@
+{
+  "TS_HOST": "api.thingspeak.com",
+  "TS_PORT": 443,
+  "TS_CHANNEL": 1,
+  "TS_APIKEY": "[APIKEY]",
+  "TS_SAMPLETIME": 5000
+}
